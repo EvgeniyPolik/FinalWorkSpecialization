@@ -1,0 +1,3 @@
+Bobby;12.01.2020;Pet;Dog;
+Catty;12.01.2021;Pet;Cat;
+Horsy;12.01.2022;Pet;Horse;
